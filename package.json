@@ -175,8 +175,8 @@
     "@types/pg": "^8.23.1",
     "@types/ramda": "0.32.0",
     "@types/superagent": "8.1.11",
-    "@typescript-eslint/eslint-plugin": "8.67.0",
-    "@typescript-eslint/parser": "8.67.0",
+    "@typescript-eslint/eslint-plugin": "8.68.0",
+    "@typescript-eslint/parser": "8.68.0",
     "audit-ci": "^7.1.0",
     "concurrently": "^10.0.5",
     "cypress": "^13.17.0",
@@ -204,13 +204,13 @@
       "uuid": "14.0.2"
     },
     "notifications-node-client": {
-      "axios": ">=1.19.0"
+      "axios": ">=1.20.0"
     },
     "@opentelemetry/core": ">=2.10.0",
     "@azure/functions-old": {
       "uuid": ">=14.0.2"
     },
-    "protobufjs": "8.7.2",
+    "protobufjs": "8.8.0",
     "js-yaml": ">=5.2.1",
     "tar": ">=7.5.22",
     "brace-expansion": "5.0.9",
